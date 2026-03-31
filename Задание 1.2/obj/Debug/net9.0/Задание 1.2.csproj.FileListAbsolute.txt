@@ -1,0 +1,14 @@
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\bin\Debug\net9.0\Задание 1.2.exe
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\bin\Debug\net9.0\Задание 1.2.deps.json
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\bin\Debug\net9.0\Задание 1.2.runtimeconfig.json
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\bin\Debug\net9.0\Задание 1.2.dll
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\bin\Debug\net9.0\Задание 1.2.pdb
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.AssemblyInfoInputs.cache
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.AssemblyInfo.cs
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.csproj.CoreCompileInputs.cache
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.dll
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\refint\Задание 1.2.dll
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.pdb
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\Задание 1.2.genruntimeconfig.cache
+C:\Users\mommy\OneDrive\Рабочий стол\Скуник\Теории алгоритмов\Задание 1.2\obj\Debug\net9.0\ref\Задание 1.2.dll
