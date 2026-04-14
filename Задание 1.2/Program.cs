@@ -38,8 +38,6 @@ class Program
         double averageComparisons = (double)totalComparisons / runs;
 
         Console.WriteLine("Середня кількість порівнянь: " + averageComparisons.ToString("F2"));
-
-        Console.ReadKey();
     }
 
     static int[] GenerateArray(int size, int min, int max, Random random)
